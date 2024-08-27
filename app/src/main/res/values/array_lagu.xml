@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nomorLagu">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
+        <item>32.</item>
+        <item>33.</item>
+        <item>34.</item>
+        <item>35.</item>
+        <item>36.</item>
+        <item>37.</item>
+        <item>38.</item>
+        <item>39.</item>
+        <item>40.</item>
+        <item>41.</item>
+        <item>42.</item>
+        <item>43.</item>
+        <item>44.</item>
+        <item>45.</item>
+        <item>46.</item>
+        <item>47.</item>
+        <item>48.</item>
+        <item>49.</item>
+        <item>50.</item>
+        <item>51.</item>
+        <item>52.</item>
+        <item>53.</item>
+        <item>54.</item>
+        <item>55.</item>
+        <item>56.</item>
+        <item>57.</item>
+        <item>58.</item>
+        <item>59.</item>
+        <item>60.</item>
+        <item>61.</item>
+        <item>62.</item>
+        <item>63.</item>
+        <item>64.</item>
+        <item>65.</item>
+
+    </string-array>
+
+    <string-array name="judulLagu">
+        <item>Nyanyian Gembira</item>
+        <item>Ting-ting-ting</item>
+        <item>Beramailah</item>
+        <item>Tuhan, Raja Maha Baik</item>
+        <item>Ucap Syukur</item>
+        <item>Gembala Bermalam</item>
+        <item>Gembala Sekeliling</item>
+        <item>Terlahirlah Seorang Anak</item>
+        <item>Kasihan Bayi</item>
+        <item>ya, sorga Putra</item>
+        <item>Ya, Bintang Timur</item>
+        <item>Anak Di Yerusalem</item>
+        <item>Diluar Tembok Negeri</item>
+        <item>Kristus Sudah Bangkit</item>
+        <item>Mujizat Yang Besar</item>
+        <item>Awan Suci</item>
+        <item>Pada Hari Pentakosta</item>
+        <item>Siarkan Ke Benua</item>
+        <item>Anak Satu Bapa</item>
+        <item>Ya Timur-Barat Tiadalah</item>
+        <item>Bagi Yesus Kita Juga</item>
+        <item>Sabda Tuhan masih Hidup</item>
+        <item>Seorang Anak Yang Kecil</item>
+        <item>Gembala Muda</item>
+        <item>Pulang sama Bapa</item>
+        <item>Kasih Tuhan Allah</item>
+        <item>Sudah Kau Hitung Bintang</item>
+        <item>Tuhan Kau Piara</item>
+        <item>Karna Cuaca Baik Terang</item>
+        <item>Seorang Sobat Anak</item>
+        <item>Dimana Diam Tuhanku</item>
+        <item>Anak-Anak yang Muda</item>
+        <item>Perahu Awan Putih</item>
+        <item>Sesehari Turunlah</item>
+        <item>Sehari-hari Tuhanku</item>
+        <item>Terima Kasih, Bapaku</item>
+        <item>Emas Trang Siang</item>
+        <item>Perhentian Malam</item>
+        <item>Tuhan, Saya Tutup Mata</item>
+        <item>Tuhan, Lihat Anakmu</item>
+        <item>Biarlah Tanganmu, ya Bapa</item>
+        <item>Para Ibu Membawa Anak-anaknya</item>
+        <item>Sudah kau Kenal Gembala</item>
+        <item>Saya Cari Yesus</item>
+        <item>Kasih Yesus Nyatalah</item>
+        <item>Yesus Ramah, Tuhanku</item>
+        <item>Yesus, Saya MilikMu</item>
+        <item>Prahu yang Dijagai Yesus</item>
+        <item>Disorga Ada Sobat Satu</item>
+        <item>Dekatlah Dan Setialah</item>
+        <item>Aman ditangan Yesus</item>
+        <item>Janganlah Tunggu</item>
+        <item>Saya Lari Dan Mencari</item>
+        <item>Biarlah</item>
+        <item>Terbuka Pintu Yang Besar</item>
+        <item>Prahu Kita Tersedia</item>
+        <item>Bolehkah Sekali Kita</item>
+        <item>Disanalah</item>
+        <item>Musafir, Hendak Kemana</item>
+        <item>Pujian Dan Hormat</item>
+        <item>Suruhlah, Tuhan Trang</item>
+        <item>Pujilah Tuhanmu</item>
+        <item>Puji Tuhan Nyanyilah</item>
+        <item>Anak-Anak, Pujilah</item>
+        <item>Haleluya</item>
+
+
+    </string-array>
+
+    <string-array name="lirikLagu">
+        <item>Nya-nyi-an gem-bi-ra ka-mi naik-lah nya-ring dan mer-du.
+Tu-han. a-nak-Mu me-nya-nyi ka-re-na ke-baik-an-Mu.
+Ma-ri-lah. nya-nyi-lah! Hal-le-lu-ya, hal-le-lu-ya
+pu-ji Tu-han, nya-nyi-lah!
+</item>
+        <item>Ting-ting-ting ge-mer-cing lon-ceng pe-rak
+sua-ra-nya. La-gu-mu yang mer-du.
+a-nak-ku kau-nya-nyi-lah!</item>
+        <item>Be-ra-mai-lah, ber-nya-nyi-ba-gi Tu-han
+di-su-kai Nya nya-nyi-an dan pu-ji-an.
+Be-ra-mai-lah. ber-nya-nyi-lah
+</item>
+        <item>Tu-han, Ra-ja Ma-ha-baik, tri-ma pu-ji-an yang naik
+di-se-lu-ruh du-ni-a. Ka-mi tu-rut-me-nyem-bah.</item>
+        <item>u-cap syu-kur, syu-kur ki-ta naik ke-pa-da
+Tu-han yang ka-sih Nya ba-ka se-la-ma-la-ma-nya yang ka-sih-
+Nya ba-ka se-la-ma la-ma-nya</item>
+        <item>Gem-ba-la ber-malam ber-ga-ring dan du-duk di pa-dang se-nya,
+Men-ja-ga-i dom-ba-dan kaum-bing dan bin-tang ke-cil ge-merlap
+hai de-ngar se-ga-la ma-lai-kat ber-ki-dung per-mai dan mer-du
+Gem-ba-la se-mu-a ber-ang-kat, ke-ge-ran-an dan ke-lu.
+</item>
+        <item>Gem-ba-la se-ke-li-ling yang di-lem-bah, hai ma-ri-lah!
+Gem-ba-la se-ke-li-ling, i-kut ke Bet-le-hem!
+Ma-lam le-nyap na-da ge-lap. Ter-
+de-ngar nya-nyi-an mer-du, gem-ba-la ba-wa su-ling mu!</item>
+        <item>Ter-la-hir-lah se-o-rang Ba-yi Ku-dus ter-la-hir-lah
+se-o-rang ba-yi Ku-dus O-leh-Nya bu-mi hen-
+dak di-te-bus, o-leh-Nya bu-mi hem-dak di-te-bus.</item>
+        <item>Ka-sih-an ba-yi yang di-ngin a-duh! Li-hat-lah
+Ba-dan-nya gi-gil meng-gi-gil. De-ngar-lah ta-ngis-an-nya
+ter-se-du. Na-na na na na na a - nak lem-
+but i-ni-loah i-bu-mu, ja-ngan ke-jut.
+</item>
+        <item>Ya Sor-ga Pu-tra yang lem-but, te-nang kau ti-dur-lah ma-
+lai-kat ba-nyak ber-te-lut mer-du nya-nyi-an-nya gem-
+ba-la mis-kin pun ten-tu me-nya-nyi ku-dung ba-gi-Mu.
+Sla-mat. sla-mat. Sor-ga Pu-tra sla-mat
+</item>
+        <item>Ya, Bin-tang Ti-mur, ter-bit-lah kem-ba-li de-ngan ca-
+ha-ya peng-hi-bur se-nang, se-per-ti o-rang ber-
+il-mu se-ka-li kau-bri di ja-lan-nya si-nyar te-rang.</item>
+        <item>A-nak di Ye-ru-sa-lem ba-wa pu-ji-an sa-lam
+ba-gi na-ma Ra-ja-nya: ki-ta-pun ber-nya-nyi-lah!
+De-ngar-lah! su-a-ra yang be-sar, de-ngar-lah su-a-ra yang be-sar
+ya. Ho-san-na, ya, Ho-san-na. A-nak Da-ud yang be-nar!
+</item>
+        <item>Di-lu-ar tem-bok ne-ge-ri di-bu-kit yang ren-dah
+Ter-gan-tung Ye-sus di sa-lib un-tuk ma-nu-si-a.</item>
+        <item>Kris-tus su-dah bang-kit. Ter-ha-pus-kan du-ka dan
+du-ni-a ter-bu-ka un-tuk trang dan su-ka. Hal-
+le-lu-ya! Tan-pa ke-bang-kit-an ke-kal-lah ke-ma-
+ti-an, te-ta-pi o-leh bang-kit-Nya pen-ja-ra-maut di-
+Rom-bak-Nya. Hal-le-lu-ya! Se-jah-tra ke-se-nang-an
+o-leh ke-me-nang-an! Hal-le-lu-ya!</item>
+        <item>Mu-ji-zat yang be-sar Mu-ji-zat yang be-sar! bah-wa
+maut su-dah ka-lah bah-wa maut su-dah ka-lah ter
+bu-ka du-ni-a a-gar ma-suk-lah Roh Al-lah</item>
+        <item>A-wan su-ci men-ce-rai-kan Tu-han Ye-sus yang di-naik-kan da-ri pa-da du-ni-a da-ri pa-da du-ni-a.</item>
+        <item>Pa-da ha-ri Pen-ta-kos-ta pa-ra mu-rid Ye-sus
+pun a-da du-duk ber-se-ha-ti dan ber-do-a ber-te-
+kun sung-guh ha-rap-nya be-sar jan-nji Tu-han-nya be-nar.</item>
+        <item>Si-ar-kan ke-be-nu-a se-du-ni-a be-sar, ke-kam-pun-
+nya se-mu-a. trang In-jil yang be-nar. Trang In-jil yang be-nar.</item>
+        <item>A-nak sa-tu Ba-pa. gan-deng ta-ngan-mu,
+a-pa ju-ga kam-pung a-tau ta-nah-mu!
+Ba-nyak-lah ba-ga-sa dan per-be-da-an
+a-nak sa-tu Ba-pa ki-ta se-ka-li-an</item>
+        <item>Ya Ti-mur-Ba-rat tia-da-lah di Kris-tus dan te-lah
+U-ta-ra dan Se-lat-an pun ber-sa-tu da-lam-Nya.</item>
+        <item>Ba-gi Ye-sus ki-ta ju-ga su-ka ra-jin be-ker-ja
+Ki-ta tak ter-la-lu mu-da ba-gi Ke-ra-ja-an-Nya
+Sam-pai ki-ni Ye-sus ma-sih a-da ha-dir di je-maat
+dan be-gi-tu prin-tah ka-sih bu-kan prin-tah yang be-rat.</item>
+        <item>Sab-da Tu-han ma-sih hi-dup, sab-da Tu-han ma-sih hi-dup
+Sab-da Tu-han ma-sih hi-dup, i-tu cu-kup ba-gi-ku.</item>
+        <item>Se-o-rang a-nak yang ke-cil, blum tu-rut be-ker-ja
+mau bu-at a-pa-kah yang baik ke-pa-da Tu-han-nya?</item>
+        <item>Gem-ba-la mu-da ber-se-nang di-rum-put di-lem-bah,
+se-dang men-ja-gai dom-ba-nya me-nya-nyi ki-dung-nya
+ke-ca-pi-nya mer-du mer-du ber-bu-nyi ber-ge-ma
+Gem-ba-la i-tu sia-pa-kah? O, Da-ud na-ma-nya.</item>
+        <item>Pu-lang sa-ma Ba-pa ma-sih bo-leh-kah? Sa-ya su-dah
+la-ri da-ri ru-mah-nya. ha-ti-ku ter-tu-tup. Me-nge-
+luh-nge-sah; sa-ya bu-ta tak me-li-hat ka-sih-
+Nya. sa-ya bu-ta tak me-li-hat ka-sih-Nya.</item>
+        <item>Ka-sih Tu-han Al-lah a-kan du-ni-a
+me-me-luk se-ga-la a-nak a-nak-Nya.</item>
+        <item>Su-dah-kah kau hi-tung bin-tang yang di la-ngit ge-mer-lap?
+Bra-pa jang-krik ri-ang ri-ang da-lam hu-tan yang ge-lap?
+Da-ri ri-bu ri-bu-an-nya Tu-han ju-a tahu na-ma-nya
+yang di-i-ngat-Nya te-tap yagn di-i-ngat-Nya te-tap</item>
+        <item>Tu-han Kau pi-a-ra se-ga-la mah-luk Mu
+di-la-ngit laut dan bu-mi dan hi-dup-ku</item>
+        <item>Kar-na cu-a-ca baik te-rang, tri-ma ka-sih. Ba-pa Sor-ga dan
+la-ut bi-ru yang se-nang, tri-ma ka-sih Ba-pa Sor-ga. Kar-na
+bu-nya ga-bus se-ka-li-an, kar-na bu-rung yang ber-nya-nyi -an
+dan bin-tang ri-bu ri-bu-an, tri-ma ka-sih, Ba-pa Sor-ga.</item>
+        <item>Se-o-rang so-bat a-nak yang tak ke-li-hat-an men-
+ja-lan-i se-la-lu ne-gri se-ka-li-an.
+U-tus-an Tu-han I-a-lah dan sor-ga ta-nah a-sal-nya.</item>
+        <item>Di ma-na di-am Tu-han-ku de-ngan se-ti-a-Nya te-guh?
+Di-sor-ga di-is-ta-Nya dan da-lam ha-ti yang ren-dah
+di -sor-ga di -is-ta-na-Nya dan da-lam ha-ti yang ren-dah</item>
+        <item>A-nak-a-nak yang mu-da ka-mi hi-dup se-nang.
+sper-ti bu-rung yang ra-mai ber-ci-cit dan ter-bang</item>
+        <item>Pe-ra-hu a-wan pu-tih ter-bu-ka ja-lan-nya.
+Si-a-pa ju-ru mu-di yang ta-hu ja-lan-nya?
+Si-a-pa ju-ru mu-di yang ta-hu ja-lan-nya?</item>
+        <item>Se-se-ha-ri tu-run-lah man-na un-tuk o-rang-Nya.
+Ka-sih Tu-han mem-be-ri se-se-hari re-ze-ki.
+</item>
+        <item>Se-ha-ri ha-ri Tu-han-ku me-li-hat a-nak -Nya
+dan ta-hu a-pa yang per-lu di-bri ke-pa-da-nya</item>
+        <item>Te-ri-ma ka-sih Ba-pa-ku se-bab kau ja-gai ti-dur-ku,
+Se-la-mat sa-ya dan se-nang sam-pai kem-ba-li si-ang trang
+Be-ri-lah sa-ya, a-nak-Mu. ber-ja-lan-lah di ja-lan-Mu.
+se-nang-lah be-ker-ja dan main de-ngan me-no-long o-rang lain.
+</item>
+        <item>E-mas trang si-ang bri ha-ti ri-ang, trang ma-ta ha-ri
+yang me-nyi-nar-i kam-pung-ku de-ngan te-na-ga se-gar.
+Ku ti-dur a-man se-ma-lam ma-lam-an Ba-ngun-lah sa-ya ber
+ri-ri su-pa-ya ku-sam-but si-ang ber-su-ka be-nar.</item>
+        <item>Per-hen-ti-an ma-lam dan se-jah-te-ra
+tu-run a-tas a-lam de-ngan ber-kat-nya.</item>
+        <item>Tu-han, sa-ya tu-tup ma-ta sa-ya li-pat ta-ngan-ku,
+pan-dang sa-ya, Ba-pa sor-ga de-ngan ka-sih ma-ti-mu.
+Mes-ki sa-ya ma-sih mu-da, tri-ma ju-ga do-a-ku;
+Bri-lah da-lam ka-wan Tu-han sa-ya ja-di dom-ba-Mu
+A-min</item>
+        <item>Tu-han li-hat a-nak-Mu sa-ya tu-tup ma-ta-ku.
+Da-lam ma-lam yang ge-lap. Tu-han ja-ga-lah te-tap.</item>
+        <item>Bri-lah ta-ngan-Mu, ya Ba-pa mem-ber-ka-ti ti-dur-ku,
+ja-ngan sa-ya ta-kut a-pa da-lam per-lin
+dung-an-Mu, da-lam per-lin-dung-an-Mu.
+</item>
+        <item>Pa-ra i-bu mem-ba-wa a-nak-a-nak sa-ma Ye-sus la-lu
+ka-ta mu-rid-mu-rid-Nya Per-gi, a-yo, Per-gi!
+Ta-pi Ye-sus yang me-li-hat-nya ber-sab-da de-ngan ra-mah-nya
+Bi-ar-kan a-nak -a-nak da-tang ke-pa-da-Ku.</item>
+        <item>Su-dah kau-ke-nal Gem-ba-la? su-dah ta-hu tong-kat-kah
+yang di-bri-kan o-leh Ba-pa kan me-mim-pin dob-ba-Nya?</item>
+        <item>Sa-ya ca-ri Ye-sus, yang meng-bi-bur-kan,
+o-leh sua-ra-nya le-nyap ke-su-sah-an
+De-ngan Ye-sus sa-ya ber-ba-ha-gi-a
+A-nak mu-da dan ke-cil di-pang-gil-nya.</item>
+        <item>Ka-sih Ye-sus nya-ta-lah ba-gi-ku di-Ki-tab-Nya.
+ha-ti-Nya me-nga-sih-i a-nak ti-ap ne-ge-ri.
+Trang ka-sih Ye-sus. trang ka-sih Ye-sus.
+Trang ka-sih Ye-sus di-Ki-tab nya-ta-lah.</item>
+        <item>Ye-sus ra-mah, Tu-han-ku. i-ni sa-ya, a-nak-Mu.
+sper-ti a-nak-a-nak lain, sa-ya pun ge-mar ber-main.
+</item>
+        <item>Ye-sus sa-ya mi-lik-Mu ber-gem-bi-ra ha-ti-ku.
+kar-na Eng-kau-lah ke-pa-la de-ngan ka-sih-an gem-ba-la.
+Dom-ba-Mu yang Kau-ke-nal. kau bri hi-dup yang ke-kal!</item>
+        <item>Pra-hu yang di-ja-gai Ye-sus ber-sa-lib di la-jar-nya
+i-tu bah-te-ra se-la-mat di-te-ngah sa-mu-de-ra
+Mes-ki-pun ro-fan me-nyer-bu dan ting-gi om-bak laut
+per-ca-ya ju-ga Tu-han-mu dan ja-ngan ta-kut maut</item>
+        <item>Di-sor-ga a-da So-bat sa-tu, di-si-ni tia-da
+ta-ra-Nya. se-bab se-o-rang tak be-gi-tu se-ti-a
+da-lam du-ni-a. Di-a-tas so-bat lalu ten-tu ku-pang-gil Ye-sus So-bat-ku.</item>
+        <item>De-kat-lah dan se-ti-a Gem-ba-la ka-mi, Ye-sus.
+Pe-nuh-lah peng-hi-bur-an-Nya su-a-ra Tu-han Ye-sus.
+Pu-ji-an ma-lai-kat-Nya, sua-ra ka-mi-pun ser-ta,
+me-mu-lia-kan Na-ma-Nya Na-ma-Ra-ja ye-sus.</item>
+        <item>A-man di-ta-ngan Ye-sus, a-man di-pang-ku-Nya. I-tu-lah per-hen-ti-an,
+I-tu se-jah-te-ra. De-ngar Ma-lai-kat i-tu! Ki-dung-nya ber-ge-mar
+da-ri is-ta-na sor-ga a-tas laut ka-ca-nya A-man di-ta-ngan ye-sus,
+a-man di-pang-ku-Nya I-tu-lah per-hen-ti-an. I-tu se-jah-te-ra</item>
+        <item>Ja-ngan-lah tung-gu. ma-ri se-gra Tu-han membri per
+jan-ji-an-Nya. Pe-nuh ka-sih-an pang-gil-an-Nya
+A-nak-ku, ma-ri-lah! Ra-mai-ra-mai ber-ke-su-ka-an
+o-rang-Nya te-lah ber-nya-nyi-an de-ngan ma-lai-kat
+se-ka-li-an ke-li-ling tah-ta-Nya.
+</item>
+        <item>Sa-ya la-ri dan men-ca-ri ha-di-ah be-sar
+dan ber-ju-ang ke-tu-ju-an su-ci dan benar
+sa-ya li-hat Tu-han-ku yang di-ujung ja-lan-ku
+Pang-gil-an-Nya i-tu ha-nya membri roh se-gar.</item>
+        <item>Bi-ar-lah bi-ar-lah sa-ya li-hat mu-ka-Nya.
+Ji-wa-ku ber-ke-rindu-an mau per-gi
+me-man-dang Tu-han yang di a-tas tah-ta-Nya.</item>
+        <item>Ter-bu-ka pin-tu yang be-sar, ber-pan-car-lah ca-ha-ya,
+se-dang su-a-ra ter-de-ngar me-mang-gil mang-gil sa-ya.
+A-jaib-lah Tu-han, ka-sih-Mu, ter-bu-ka pin-tu ba-gi-ku
+A-jaib! A-jaib! Ter-bu-ka ba-gi-ku!</item>
+        <item>Pra-hu ki-ta ter-se-di-a ki-ta tung-gu di-te-pi
+Ye-sus da-tang, lan-tas I-a tun-juk a-rah ke-ne-gri,
+Mes-ki laut ter-tu-tup hu-jan a-rah ke-Ne-gri ba-ka
+Je-sus Ju-ru-mu-di ki-ta, a-man-lah tu-ju-an-Nya.</item>
+        <item>Bo-leh-kah se-ka-li ki-ta ti-ba di-te-pi se-nang
+da-ri a-ir ke-hi-dup-an, tem-pat gre-ja
+yang me-nang? me-mang sung-guh-lah be-ri-ta, nan-ti
+di te-pi yang hi-jau ki-ta ti-ba dan ber-su-ka
+ci-ta de-ngan gre-ja yang me-nang</item>
+        <item>Di sa-na-lah tak a-da a-ir ma-ta tak a-da
+ta-kut dan ke-luh ke-sah. Tak a-da pa-hit ka-ta
+Di sa-na lah! Di sa-na-lah!</item>
+        <item>Mu-sa-fir, hen-dak ke-ma-na ber-gan-deng-an ta-ngan-mu?
+Naik-lah ka-mi ke-is-ta-na ru-mah Ba-pa yang te-guh!
+Ka-mi men-de-ngar be-ri-ta per-ja-mu-an su-ka-ci-ta,
+per-ja-mu-an su-ka-ci-ta di-is-ta-na yang te-guh
+per-ja-mu-an su-ka-ci-ta-di is-ta-na yang teguh</item>
+        <item>Pu-ji-an dan hor-mat ka-mi bri ke-pa-da Kha-lik du-nia
+A-min. A-min A-min, A-min
+</item>
+        <item>Su-ruh-lah Tu-han,trang ke-sung-guh-an
+me-mim-pin a-ku ke-ru-mah
+Tu-han a-kan me-mu-ji Tu-han-ku</item>
+        <item>Pu-ji-lah Tu-han-mu ka-re-na ke-baik-an-Nya.
+Ka-sih se-ti-a-nya sla-manya ba-ka.
+A-min a-min.</item>
+        <item>Pu-ji Tu-ha,
+nya-nyi-lah,
+karna se-ti-a
+ka-sih-Nya</item>
+        <item>A-nak a-nak, pu-ji-lah
+Ba-pa karna ka-sih-Nya
+Pu-ji Ye-sus Pe-ne-bus.
+mu-li-a-kan Roh-Ku-dus</item>
+        <item>Hal-le-lu-ya, hal-le-lu-ya!
+A - - min, a - - min. </item>
+
+    </string-array>
+
+    <string-array name="reffLagu">
+        <item>Reff\n\n
+            Dari harapan dan doa
+pemberianMu lebih.
+kasih dan gembira jua
+balasan yang kami bri.
+Marilah. nyanyilah!
+Haleluya, haleluya.
+puji Tuhan, nyanyilah!\n\n
+
+Dari pada malak sorga
+Kau terima pujian.
+Akan kidung anak juga
+hati Tuhan berkenan.
+Marilah, nyanyilah!
+Haleluya, haleluya.
+puji Tuhan, nyanyilah!
+</item>
+        <item>Reff\n\n
+            Nyanyilah menyembah
+Bapamu dan bergemar,
+dan tentu doamu
+hari-hari di dengar.\n\n
+
+Ingatlah kasihgNya
+jangan hatimu gelap.
+Jadi trang dan senang
+karna kasihNya tetap
+</item>
+        <item>Reff\n\nBerkidunglah, kumpulan anak muda
+dan ingatlah, Anugerah yang sudah
+di brikan-Nya selamanya\n\n
+
+Di takhta-Nya, dikemuliaan sorga
+dilihat-Nya segala anak juga,
+dan lagunya didengar-Nya
+</item>
+        <item>Reff\n\n
+            Bala sorga berseru
+dikeliling tahta-Mu
+Tuhanlah kudus benar!
+Hormat kami pun besar\n\n
+
+Iman, raja dan nabi
+semuanya memberi
+persembahan pujian,
+Kami pun bernyanyian\n\n
+
+Saksi Tuhan yang telah
+habis perjuangannya
+Menggerakkan kami pun
+kan berjuang bertekun\n\n
+
+Tuhan kami, tolonglah
+kami yang kecil-rendah
+dalam tentara besar
+jadi hamba-Mu benar.</item>
+        <item>Reff\n\n
+            Tunduk sembah, bri hormat kudus dan selamanya
+Nam-Nya disebut dengan sembah-sujud.
+Nama-Nya disebut dengan sembah-sujud.\n\n
+
+Hai jiwaku, bri pujianmu muliakan Tuhan
+dan jangan kau lupakan kebajikan-Nya
+dan jangan kau lupakan kebajikan-Nya\n\n
+
+Nyanyikanlah gembira gemar bersukaria.
+Pujianmu tentu ditrima Tuhanmu.
+Pujianmu tentu ditrima Tuhanmu.</item>
+        <item>Reff\n\n
+            Setiba di Betlehem, lantas
+berpancarlah sinar cerah
+yang satu terbit dari atas,
+yang lain di palungan rendah.
+Dan nyala di mata gembala
+menyinari bayi lembut.
+Mereka menunduk kepala.
+menangis dan bertelut.\n\n
+
+Ya Anak, ya Anak, yang kini terlahir di kandang kecil,
+Kau bimbinglah hambamu
+ini di jalan benar dan adil.
+Sekalian kaum Kau berkati,
+Kejahatan dusta lenyap.
+Kuasa kasih-Mu di hati
+menang dan tegak tetap.</item>
+        <item>Reff\n\n
+            Gembala sekeliling yang di lembah,
+hai, marilah! Gembala sekeliling.
+ikut ke-Bethlehem!
+Yesus kecil
+Tuhan adil
+Gembala baik di dunia
+dan kamu jadi dom-Nya\n\n
+
+Gembala sekeliling yang di lembah
+semuanya, gembala sekeliling,
+kami ke-Betlehem!
+Kamu dengar
+sabda benar
+dan kamupun dipimpin-Nya
+ke taman sorga yang baka!</item>
+        <item>Reff\n\n
+            Terbaring Bayi dalam kandang rendah.
+palungan ini tempat tidur-Nya\n\n
+
+Terlahir Ia bagi orang sesat
+dengan menanggung salib yang berat.</item>
+        <item>Reff\n\n
+            Mari gembala, segra marilah.
+pergi ke kandang dan bunyikan suling,
+manis dan halus merdu suaranya
+na na na na na na anak lembut,
+inilah sobatmu, jangan kejut.\n\n
+
+Mari, malaikan kecil, marilah,
+nyanyian kidung merdu bagi Raja,
+sampai tenang dan senang tidurnya
+na na na na na na, anak lembut,
+inilah hambamu, jangan kejut.</item>
+        <item>Reff\n\n
+            Dijagai Maryam tentulah Kau aman dan senang.
+Tak brani Yusuf bergerak, pelitanya terang.
+Segala dombapun kelu disamping tempat tidurMu.
+Slamat, slamat, Sorga Putra, slamat.\n\n
+
+Ah, nanti atas Golgota, tertumpah darahMu.
+supaya kaum manusia selamat dan sembuh
+Gembala miskin inilah selalu hendak menyembah
+Slamat, slamat, Sorga Putra, slamat.</item>
+        <item>Reff\n\n
+            Tunjukkan kami tempat Tuhan jadi.
+Sungguhkah kandang yang hina kecil
+rumah kelahiran Raja Abadi?
+Itulah Raja penyayang adil.\n\n
+
+Membawa mur dan emas kehormatan
+orang berilmu berlutut sembah.
+Apakah harta yang kupersembahkan?
+hati terbuka, lembut dan rendah.
+</item>
+        <item>Reff\n\n
+            Kita tahu kasihNya.
+kita juga menyembah
+nama Yesus yang kudus,
+karna la Penebus,\n\n
+
+Tua-muda, marilah.
+orang tinggi dan rendah
+mari dan bersoraklah
+sampai langit bergema</item>
+        <item>Reff\n\n
+            Siapa tahu sakitNya
+dan susah yang berat?
+Tetapi kasihNya membri
+anugrah dan berkat.\n\n
+
+Oleh salibNya hati kras
+dan bumi yang gelap
+terbuka bagi kasihNya
+dan damai yang tetap.\n\n
+
+Dibukit itu saya pun
+berlutut menyembah
+yang memulangkan hatiku
+kepada BapaNya.</item>
+        <item></item>
+        <item>Reff\n\n
+            Terang kudus terbit!
+Terang kudus terbit!
+Beban dosa diangkut!
+Beban dosa diangkut!
+kehidupan menang,
+karna Yesus sudah bangkit!</item>
+        <item>Reff\n\n
+            Ia naik ke atas takhta.
+tidak tampak bagi mata
+suci kerajaanNya.\n\n
+
+Para bangsa bumi buka
+hati kamu dengan suka
+trima FirmanNya kudus.\n\n
+
+Biar lidah kamu juga
+menghormati Raja sorga,
+Anak Allah Penebus.\n\n
+
+Tuhan Yesus berkuasa
+atas tempat, atas masa.
+kita pun dipimpinNya.\n\n
+
+Untuk kita Ia mati,
+bangkit dan membuka hati bagi Roh yang bekerja.</item>
+        <item>Reff\n\n
+            Tiba-tiba kedengan
+angin ribut menyerbu
+dan menggonjang alasan
+rumah baru yang teguh.
+Karna Roh Kudus telah
+turun dengan apiNya!\n\n
+
+Murid berbahasa asing
+membesarkan TuhanNya.
+kata petrus Hai, saudara,
+Yesus Kristus, Anak Daud,
+sungguh bangkit dari maut.</item>
+        <item>Reff\n\n
+            Britahu kepada bangsa, siapa Bapanya
+yang memberi sentosa dengan sejahtera.\n\n
+
+Jatuhkanlah berhala, rombaklah kuilnya
+dirikan Rumah Allah. kan tempat menyembah.\n\n
+
+Yang buta kan melihat, yang tuli mendengar,
+yang lumpuhpun melompat, yang bingung tersedar\n\n
+
+Penjaramu terbuka, Trang Tuhan masuklah
+hendak bersuka-suka, terimakasihNya.\n\n
+
+Siarkan ke benua sedunia besar,
+ke kampungnya semua, trang Injil yang benar.</item>
+        <item></item>
+        <item>Reff\n\n
+            Persekutuan yang kudus mengikat dunia
+dengan pertalian emas yaitu KasihNya.\n\n
+
+Dan apa juga bangsamu, saudara, marilah,
+yagn jadi anak Bapaku sekawan adanya.\n\n
+
+Meskipun angin dunia bertiup berempat.
+tetapi satu saja Roh di segenap tempat.</item>
+        <item>Reff\n\n
+            Anak-anak jadi juga
+hamba dalam kasihNya
+Bagi kita tidak sukar
+kata pengajaranNya.
+Susah tidak mengatasi
+Kuasa Yesus di Jemaat
+dan begitu printah kasih
+bukan printah yang berat</item>
+        <item>Reff\n\n
+            Sabda itu menghiburkan,
+itu cukup bagiku.\n\n
+
+Sabda itu pengharapan,
+itu cukup bagiku.\n\n
+
+Sabda Tuhanku yang hidup
+cukup juga bagimu.</item>
+        <item>Reff\n\n
+            Dengarlah saja kataKu,
+yang sungguh dan senang,
+dan buka saja hatimu,
+supaya jadi trang\n\n
+
+Kasihi ibu-bapamu,
+saudara dan teman,
+supaya sinar kasihKu
+tetap kau hamburkan.\n\n
+
+Terbitlah dari kasihKu
+kerja yang baik tetap.
+Tetapi jangan hatimu
+tertutup dan gelap</item>
+        <item>Reff\n\n
+            Gembala muda itupun
+dipanggil segera
+dan diistana raja Saul
+berbunyi kidungnya
+Selalu Hu, Gembalaku,
+bri hatiku senang
+dipadang hijau ditepi
+telaga air tenang.\n\n
+
+Mendengar itu raja Saul
+menangis tersedu,
+tetapi ribu hatinya
+berhenti dan teduh
+Seisi rumah raja pun
+berkata bergemar
+Nyanyian anak Betlehem
+berisi roh benar!</item>
+        <item>Reff\n\n
+            Saya main dan minum
+berkemewahan.
+warisan yang indah
+saya boroskan
+Sampai kelaparan.
+susahku besar.
+di antara babi saya tersedar.\n\n
+
+Saya yang berdosa
+sama Bapaku.
+tidak layak lagi
+jadi anak Mu.
+Biar saya jadi
+budak bagiMu,
+asal saja kau ampunkan dosaku\n\n
+
+Slamat datang, anak,
+pandang mataKu.
+kinikah kau lihat
+kasih Bapamu?
+Lihat, ini cincin
+bagi jarimu.
+Engkau bukan budak,
+tapi anakku</item>
+        <item>Reff\n\n
+            Ia memberikan hasil di kebun
+sagu tambah ikan dari laut pun.\n\n
+
+Kita tidak takut. Tuhanlah dekat.
+Dia kita ikut, kita tak sesat.\n\n
+
+Kita mau percaya, Bapa tidak jauh
+Untung dan bahaya. Bapa juga tahu.\n\n
+
+Dan di mana-mana didengarkan-Nya
+suara anak-anak dalam dunia.</item>
+        <item>Reff\n\n
+            Brapa burung beterbangan
+di udara yang cerah?
+Brapa ikan berenangan
+dalam air samudera?
+Dari ribu-ribuannya
+Tuhan ju tahu namanya,
+jalannya dan hidup nya,
+jalannya dan hidupnya.\n\n
+
+Sudahkah kau tahu berapa
+anak-anak meyembah
+dan memanggil Allah Bapa
+di seluruh dunia?
+Akan ribu-ribuannya
+diberiNya kasihanNya,
+saya pun dilihatNya,
+saya pun dilihatNya.</item>
+        <item>Reff\n\n
+            Kau piara bunga
+dan buah di kebun
+dan hewan, burung, ikan,
+dan saya pun.\n\n
+
+Jalan matahari
+dan bulan, bintang Mu,
+Kau pimpin semuanya dan kakiku.</item>
+        <item>Reff\n\n
+            Karna makanan yang sedap,
+trima kasih, Bapa Sorga
+Dan buah yang Kau bri tetep,
+Trima kasih, Bapa Sorga.
+Karna berkat-berkat-Mu harian
+yang ku trima berkelimpahan,
+pun kalau tak kelihatan,
+trimakasih, Bapa Sorga.\n\n
+
+Karna setia-Mu teguh, trima kasih,
+Bapa Sorga karna Kau brikan
+Anak-Mu, trima kasih. Bapa Sorga.
+Jesus memeluk dengankasih-Nya
+anak-anak yang kecil rendah,
+tetaplah ia sobatnya
+trima kasih, Bapa Sorga.</item>
+        <item>Reff\n\n
+            Ke rumah Ia masuk dan tahu siapakah
+yang mengasihi Tuhandan ibu bapanya
+dankanak-kana itulah selamanya dijaga-Nya.\n\n
+
+Katanya Bergembira bermain selama trang
+Dan malam jangan takut. kamu tidurlah senang.
+Selalu ingat Sobatmu, percaya pertolonganKu.</item>
+        <item>Reff\n\n
+            Dimana saya bertempat
+disitu Tuhanku dekat.
+Dan siang-malam Tuhanlah
+menjaga anak-anakNya\n\n
+
+Segala burung pipit pun
+dan sayur hijau dikebun,
+meskipun hina dan rendah
+semua dipiaraNya.\n\n
+
+Meski rupanya Tuha jauh,
+tak bimbang saya, karna tahu
+Tak gugur rambut sehelai
+diluar maksudNya yang baik.</item>
+        <item>Reff\n\n
+            Dari piara dan kasih Tuhan tidak lelah,
+pemberian ribuan yang dihamburkanNya.\n\n
+
+Tiap pagi trang siang dan bangun tetap,
+Kami cari dan dapat makan-minum sedap.\n\n
+
+Kalau bulan purnama pada malam terang,
+kami main dan menari dan menyanyi tenang.\n\n
+
+Oleh main dan kerjaan kami rasa lelah,
+lalu tidur selamat sampai trang merekah.\n\n
+
+Tuhan Allah yang ramah membri banyak berkat
+jangan lupa kasihNya selalu dekat.</item>
+        <item>Reff\n\n
+            Ke mana awan maju, siapakah yang tahu?
+Ke mana angin laju ke sana juga prahu.\n\n
+
+Perahu seangkatan, searah jalannya,
+meski tak kelihatan juragan siapakah.\n\n
+
+Siapakah jurumudi perahu hidupmu?
+Yang memegang kemudi yaitu Tuhanku.</item>
+        <item>Reff\n\n
+            Sesehari kata-Nya Dalam aku kuatlah,
+Firmanku dan rezeki, itu manna yang Ku bri.\n\n
+
+Tuhan, perjanjian-Mu memenuhi hatiku
+dengan kepercayaan, angkat kekuatiran</item>
+        <item>Reff\n\n
+            Dilihat-Nya siapa yang haus atau laparkah,
+siapa kuat dan senang, siapa yang lemah.\n\n
+
+Roh kebohongan yang gelap dengan hobatnya,
+kesia-siaan genap, tak ada isinya.\n\n
+
+Dan oleh hikmatNya ajaib dan kasih-Nya besar,
+semua itu jadi baik di jalan yang benar\n\n
+
+Tak ada setan di kebun di hutan dan di laut, tak hantu atau suanggi pun yang mendatangkan maut\n\n
+
+Kemana juga kau pergi dan apapun tempat kau
+duduk dalam negeri, Gembalamu dekat.</item>
+        <item></item>
+        <item>Reff\n\n
+            Marilah kita bersukacita,karna selamat bawalah hormat
+kepada Bapa setia kekal. Dipersembahkan yang kita kerjakan
+kepada Tuhan dan tanpa keluhan Anak setiawan tak menyesal.</item>
+        <item>Reff\n\n
+            Habislah kerjaan dalam negeri.
+Allah setiawan tidak berhenti.\n\n
+
+Biarlah kuatir Hatimu teduh
+Tuhan ada hadir dalam rumahmu</item>
+        <item></item>
+        <item>Reff\n\n
+            Ampunkanlah salahku dengan kasih sayang-Mu.
+Berkatmu sekalian jangan saya lupakan.\n\n
+
+Tolong ibu-bapaku dengan Roh dan KuatMu.
+Brilah sobat dan teman tak kena kesusahan.\n\n
+
+Brilah oleh berka-Mu orang sakit pun sembuh
+anak lain sekalian jangan berkekurangan.\n\n
+
+Besok pagi bangunkan anak-Mu sekalian,
+hingga kami bergemar memberi syukur benar.</item>
+        <item>Reff\n\n
+            Jangan kupercaya bohong suanggi, hantu, doti glap.
+Bapa, Engkaulah menolong sampai hatiku tetap.\n\n
+
+Jangan pikiran yang salah mengharukan hatiku.
+Saya tidur, yang Gembala, aman oleh jagaMu
+</item>
+        <item>Reff\n\n
+            Aku suka menyambut serta memeluk mereka
+Aku jadi bagi dombaku Gembalanya ayng baik
+Tiap anak yang bri hatinya Ku bri selamat hidupnya.
+Biarkan anak-anak datang kepada-Ku.\n\n
+
+Para akan di bumi harus tahu nama Yesus,
+serta datang dan melihat pun betapa ramah-Nya.
+Dari mana-mana marilah, percaya sabda kasih-Nya
+Biarkan anak-anak datang kepada-Ku.!</item>
+        <item>Reff\n\n
+            Kalau domba satu lari, jauh dari kawannya
+Trus Gembala Baik mencari\n\n
+
+Dalamjurang Ia dapat domba, sakit dan penat,
+dan Gembala Baik mendukung bawa pulang yang sesat.\n\n
+
+Kami suka di piara. Tuhan Yesus, oleh Mu
+DombaMu diribut bumi hidup aman dan teduh.</item>
+        <item>Reff\n\n
+            Saya cari Yesus dengan doaku.
+ia mendengar siapa berseru.
+Dengan Yesus saya berbahagia
+Anak muda dan kecil dipanggilNya\n\n
+
+Saya cari Yesus oleh tanganNya
+Sayapun dipimpin ke negri baka.
+Dengan Yesus saya berbahagia.
+Anak muda dan kecil dipanggilNya.</item>
+        <item>Reff\n\n
+            Tuhan Yesus menyebut dengan suara yang lembut
+nama saya dan telah saya jadi milikNya. Trang kasih Yesus...\n\n
+
+Yesus, tolong anak Mu, sampai dengan kasihku
+saya bri pertolongan sama sobat dan teman. Trang kasih Yesus ...</item>
+        <item>Reff\n\n
+            Banyaklah kesukaan dengan sobat dan teman
+dan senang dan bagus pantai, hutan dan kebun.\n\n
+
+Tapi heran rasaku mendengar ceritaMu,
+pukata indah dan benar dari BukuMu besar.\n\n
+
+Dalam trang cerita Engkau masuk dunia
+hatiku merasa trus Itu Tuhan Yang Kudus!\n\n
+
+Yesus dengan kasihMu, tinggal dalam hatiku.
+Kalau hatiku terang, baru hidupku senang.</item>
+        <item>Reff\n\n
+            Hanya oleh tongkatMu saya lihat jalanku,
+sampai isi hidup saya dapat suka dan cahaya.
+kasihMu di dalamnya bri kerjaku pun baka.\n\n
+
+Saya tahu namaMu, Engkau tahu namaku.
+DombaMu bersama-sama suka membesarkan Nama
+Tuhan dan Gembalaku. yesus, saya milik-Mu.</item>
+        <item>Reff\n\n
+            Anak Bapa yang menumpang slamatlah pelajaran,
+karna ia menentukan arah kepelabuhan.
+Meskipun tofan menyerbu dan tinggi ombak laut,
+percaya juga Tuhanmu dan jangan takut maut.\n\n
+
+Orang yang kena celaka hendak dilepaskanNya,
+jadi anak prahu Yesus slamat dalam bahtera.
+Bernyanyilah dan berseru diatas ombak lau
+Besar kuasa Tuhanku yang mengalahkan maut.
+</item>
+        <item>Reff\n\n
+            Manusia serupa ombak, tetapi bukan Sobatku
+di tengah-tengah tipu banyak kekal setiaNya teguh.
+Kuharap Yesuskan teman pemimpin serta sandaran.\n\n
+
+Manusia gampang jadi budak karunia dunia semu.
+Terlambat habis rugi banyak, mereka pasti mengeluh.
+Tetapi Yesus tak pernah memutus perjanjianNya.</item>
+        <item>Reff\n\n
+            Diangkutkannya dosamu, percaya Tuhan Yesus
+di rumah Bapa tempatmu sedia oleh Yesus.\n\n
+
+Kemarilah, kecil besar! Didalam nama Yesus
+selamat hidupmu benar dan kamu milik Yesus.\n\n
+
+Disorga kami akhirnya melihat Tuhan Yesus
+dan kamipun selamanya memuji Nama Yesus</item>
+        <item>Reff\n\n
+            Aman di tangan Yeusus, jiwaku terlepas
+dari godaan dosa dan perjuangan kras.
+Habislah ketakutan, habis kuatirku,
+karna di sana nanti harapanku penuh.\n\n
+
+Yesus yang perlindungan. kuat-tanagaku,
+Engkaulah Batu-Gunung harapan yang teguh.
+Ajarlah ku berjalan sabar beroh tetap,
+sampai ku masuk pintu sejahtera genap.</item>
+        <item>Reff\n\n
+            Bagimu pun kerajaanKu! Itulah kataNya yang tentu.
+Dengar dan turut suara merdu Anak, marilah!\n\n
+
+Sunguh sekali ditrimaNya anak kecil berhati rendah.
+Dosamupun diampunkanNya Anakku, marilah!</item>
+        <item>Reff\n\n
+            Kelemahan dan godaan jangan menengah
+Bukan saya yang berjaya, hanya Tihalah.
+Langkahku dipimpinNya sampai akhirnya
+saya boleh memperoleh hadiah baka!</item>
+        <item>Reff\n\n
+            Trang sedap, trang sedap, tempat Tuhan tak gela
+Apabila nanti saya tinggal dalam sukaraya
+di hadirat-Nya tetap?\n\n
+
+Rianglah, rianglah nyanyian malaikat-Nya. Bebas dari abu tanah
+saya mau terbang ke-sana, saya turut menyembah.\n\n
+
+Akhirnya, akhirnya taman-Nya terbukalah!
+Seperti bermimpi kita masuk dalam sukacita
+Firdaus Tuhan yang baka!
+</item>
+        <item>Reff\n\n
+            Terbuka pintu negeri kepada yang mau lari
+kepada Tuhan yang membri selamat yang dicari.\n\n
+
+Siapa yang membukanya Yaitu Anak Allah
+yang disalib di Golgota bri maut dan dosa kalah!</item>
+        <item>Reff\n\n
+            Kadang-kadang kelhatan pintu kota mas baka,
+makin kuat kedengaran nyanyian penduduknya.\n\n
+
+Banyaklah kekasih dulu tiba di negri terang
+Nanti kita puji Tuhan sama-sama di sebrang.</item>
+        <item>Reff\n\n
+            Kita tak pernah gelisah kalau nanti bertemu
+dilepaskan dari dosa roh dan tubuh pun sembuh.\n\n
+
+Kalau jalan masih jauh Tuhan bri pengharapan.
+oleh Roh-Nya kita tahu
+Sungguhlah perjanjian.</item>
+        <item>Reff\n\n
+            Kesukaan di tanah air sungguh. Salib berat tiada dan beban
+diangkat dari bahu. Kesukaan!\n\n
+
+Kesanalah! Tempat tak ada kubur, Bertumbuhlah kehidupan
+baka di taman-taman subur. Kesanalah!\n\n
+
+Di sanalah pancaran kehidupan, yaitu Tuhan dengan kasih-Nya dan
+dosa dihapuskan. Di sanalah!</item>
+        <item>Reff\n\n
+            Hujan hebat, angin rebut, kamu tidak takutkah?
+Tidak usah kami takut, Tuhan ada menyerta!\n\n
+
+Yesus Raja dan Gembala\n
+Tidak boleh kami kalah (2x)\n
+Pada jalan slamatNya.\n\n
+
+Apakah harapan kamu Sampai takutmu lenyap
+nanti kamipun dijamu dengan slamat yang genap
+Itu tempat pertemuan,\n
+Itulah persekutuan (2x)\n
+Kasih Bapa yang tetap\n\n
+
+Musafir kekota itu Boleh kami ikutkah?
+Memang, marilah kesitu. Ke istana yang baka!
+Amatlah bersukacita,\n
+Yesus yang menyambut kita (2x)\n
+Dalam rumah Bapanya.</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+
+    </string-array>
+</resources>

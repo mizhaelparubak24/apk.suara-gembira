@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/nada"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="95dp"
+        android:background="@color/hijau"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"></FrameLayout>
+
+    <ImageView
+        android:id="@+id/iv_kelompok"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintBottom_toBottomOf="@+id/tv_suara_gembira"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/tv_suara_gembira"
+        app:srcCompat="@drawable/baseline_info_24" />
+
+    <SearchView
+        android:id="@+id/search_lagu"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/outlined_grey"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_suara_gembira"
+        app:queryHint="Cari Nyanyian Rohani" />
+
+    <TextView
+        android:id="@+id/tv_suara_gembira"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Suara Gembira"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+<!--    <androidx.appcompat.widget.SearchView-->
+<!--        android:id="@+id/search_lagu"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="40dp"-->
+<!--        android:layout_marginStart="16dp"-->
+<!--        android:layout_marginTop="24dp"-->
+<!--        android:layout_marginEnd="16dp"-->
+<!--        android:background="@drawable/outlined_grey"-->
+<!--        app:iconifiedByDefault="false"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/tv_suara_gembira"-->
+<!--        app:queryBackground="@android:color/transparent"-->
+<!--        app:queryHint="Cari Materi Pembelajaran" />-->
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_lagu"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/search_lagu"
+        tools:listitem="@layout/list_lagu" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
